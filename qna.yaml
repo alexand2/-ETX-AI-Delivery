@@ -42,7 +42,7 @@ seed_examples:
       - question: |
           What is the name of the volcano in Hawaii that is erupting? 
       - answer: |
-          The volcano that is erupting is called Kilauea specifically within the Halema'uma'u crater. This volcano is on the big island of Hawaii. 
+          The volcano that is erupting is called Kilauea specifically from the Halema'uma'u crater. This volcano is on the big island of Hawaii. 
       - question: |
           What kind of hazards are caused by the volcano? 
       - answer: |
