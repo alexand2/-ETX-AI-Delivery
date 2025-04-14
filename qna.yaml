@@ -52,27 +52,6 @@ seed_examples:
       - answer: |
           Kilauea has had 17 episodes of eruptions since December 23, 2024. All eruptions are contained within the Hawaii Volcanoes National Park
   - context: |
-     The ongoing Halemaʻumaʻ u eruption is paused; episode 17 ended at 9:45 a.m. HST on April 9 when low fountaining at the south vent 
-     stopped. Both vents are now degassing but only the south vent is glowing at night. If the eruptive activity reverts to pre-episode 
-     17 behavior, data indicate that episode 18 is likely to begin in the next 1-3 days. Kīlauea's current eruption in Halema ʻ uma ʻ u 
-     crater within Kaluapele (the summit caldera) began on December 23, 2024. There have now been 17 episodes of fountaining separated by 
-     pauses in activity. All eruptive activity remains within Hawai'i Volcanoes National Park. No significant activity has been noted along 
-     KīKīlauea's East Rift Zone or Southwest Rift Zone. Current hazards include volcanic gas emissions and windblown volcanic glass
-     (Pele's Hair) and tephra that have impacted Hawai'i Volcanoes National Park and nearby communities.
-    questions_and_answers:
-      - question: |
-          What is the name of the volcano in Hawaii that is erupting? 
-      - answer: |
-          The volcano that is erupting is called Kilauea specifically from the Halema'uma'u crater. This volcano is on the big island of Hawaii. 
-      - question: |
-          What kind of hazards are caused by the volcano? 
-      - answer: |
-          Hazards include poisonous gases, magma flow, and volcanic glass. 
-      - question: |
-          How often has the volcano erupted? 
-      - answer: |
-          Kilauea has had 17 episodes of eruptions since December 23, 2024. All eruptions are contained within the Hawaii Volcanoes National Park
-  - context: |
       The current eruption has been characterized by episodic fountaining not seen in any of the other Halemaʻumaʻ u eruptions since 2020.
       Fountains and lava flows have erupted from two vents that we refer to as the north vent and south vent. Each of the previous 16 
       fountaining episodes lasted from a few hours to over a week and has been accompanied by strong deflation of the summit region. 
@@ -99,7 +78,34 @@ seed_examples:
           What is the expected timing for the onset of episode 18? 
       - answer: |
           Episode 18 is expected to begin between Monday and Wednesday of the current week, with Tuesday being the most likely day.
-
+- context: |
+  Additional hazards include Pele's hair and other volcanic fragments from lava fountains. Pele's hair is strands of volcanic glass 
+  often produced by lava fountaining activity. Volcanic fragments can fall on the ground within a few hundred yards (meters) of the 
+  eruptive vent(s), or downwind of the vent(s). Strong winds may waft light particles, including Pele's hair, to greater distances
+  downwind. Once they are on the ground, Pele's hair can sometimes cluster and tangle together, giving it the appearance of a 
+  tumbleweed. The extent of Pele's hair deposition is dependent on lava fountaining activity and current wind conditions. Residents and 
+  visitors should minimize exposure to Pele's hair and other volcanic fragments, which can cause skin and eye irritation. Hawaiian lava
+  flows generally advance slowly downslope, and during this eruption flows have been confined to Halema ʻ uma ʻ u crater and the 
+  southwest side of Kaluapele, KīKīlauea's summit caldera. Other significant hazards also remain around KīKīlauea caldera from 
+  Halema ʻ uma ʻ u crater wall instability, ground cracking, and rockfalls that can be enhanced by earthquakes within the area closed 
+  to the public. This underscores the extremely hazardous nature of KīKīlauea's caldera rim surrounding Halema ʻ uma ʻ u crater, an 
+  area that has been closed to the public since late 2007.
+    questions_and_answers:
+      - question: |
+        What is Pele's hair?         
+      - answer: |
+        Pele's hair is strands of volcanic glass often produced by lava fountaining activity. Once they are on the ground, Pele's hair 
+        can sometimes cluster and tangle together, giving it the appearance of a tumbleweed.          
+      - question: | 
+        Which direction does the lava flow from the Kilauea caldera? 
+      - answer: |
+        Lava generally flows slowly in a downslope manner and has so far been contained within the Halema'uma'u crater and southwest side of 
+        Kaluapele, KīKīlauea's summit caldera. 
+      - question: |
+        Are there other kinds of hazards?
+      - answer: |
+        Other hazards include volcanic fragments from the lava fountain, crater wall instability, ground cracking, rockfalls from earthquakes, vog, 
+        and pele's hair.
 document:
 repo: https://github.com/alexand2/-ETX-AI-Delivery.git.
 commit: 0a081557fced560abec5ae0b299185e20e5df797c8
