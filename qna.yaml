@@ -1,7 +1,7 @@
 version: 3
 domain: Volano Daily Update
 created_by: Alex, Dom, and Karlos
-document_outline: | 
+document_outline: |
   US Geological Survey for Hawaiian Volcano Observatory April 13, 2025
 seed_examples:
   - context: |
