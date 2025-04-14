@@ -51,3 +51,8 @@ seed_examples:
           How often has the volcano erupted? 
       - answer: |
           Kilauea has had 17 episodes of eruptions since December 23, 2024. All eruptions are contained within the Hawaii Volcanoes National Park
+document:
+repo: https://github.com/alexand2/-ETX-AI-Delivery.git
+commit: 0a081557fced560abec5ae0b299185e20e5df797c8
+patterns:
+  - phoenix_constellation.md
