@@ -71,7 +71,7 @@ seed_examples:
       - answer: |
           There have been 17 fountaining episodes since 2020.
       - question: |
-          hat are the names of the two vents from which the lava flows have erupted? 
+          What are the names of the two vents from which the lava flows have erupted? 
       - answer: |
           The two vents are referred to as the north vent and the south vent.
       - question: |
@@ -87,7 +87,7 @@ seed_examples:
       visitors should minimize exposure to Pele's hair and other volcanic fragments, which can cause skin and eye irritation. Hawaiian lava
       flows generally advance slowly downslope, and during this eruption flows have been confined to Halema ʻ uma ʻ u crater and the 
       southwest side of Kaluapele, KīKīlauea's summit caldera. Other significant hazards also remain around KīKīlauea caldera from 
-      Halema ʻ uma ʻ u crater wall instability, ground cracking, and rockfalls that can be enhanced by earthquakes within the area closed 
+      Halemaʻumaʻ u crater wall instability, ground cracking, and rockfalls that can be enhanced by earthquakes within the area closed 
       to the public. This underscores the extremely hazardous nature of KīKīlauea's caldera rim surrounding Halema ʻ uma ʻ u crater, an 
       area that has been closed to the public since late 2007.
     questions_and_answers:
