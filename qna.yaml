@@ -134,7 +134,7 @@ seed_examples:
           The sulfur dioxide emission rate measured on April 10th was approximately 1,200 tonnes per day, which is higher than the typical
           1,000 tonnes per day during previous pauses.
 document:
-repo: https://github.com/alexand2/-ETX-AI-Delivery.git
-commit: 0a081557fced560abec5ae0b299185e20e5df797c8
-patterns:
-  - knowledge.md
+  repo: https://github.com/alexand2/-ETX-AI-Delivery.git
+  commit: 0a081557fced560abec5ae0b299185e20e5df797c8
+  patterns:
+    - knowledge.md
