@@ -3,3 +3,30 @@ domain: Volano Daily Update
 created_by: Alex, Dom, and Karlos
 document_outline: | 
   US Geological Survey for Hawaiian Volcano Observatory April 13, 2025
+seed_examples:
+  - context: |
+      Low lava fountaining began the night of April 7 at the south vent around 10:15 p.m.
+       HST and started to produce a small lava flow that spread across the crater floor.
+       During episode 17 sustained fountains ranged from about 50 feet (15 meters) high
+        to bursts up to 200 feet (60 meters) from primarily the south vent with a short
+         period of minor fountaining at the north vent. At 9:45 a.m. HST on April 9, 
+         fountaining from the south vent stopped, marking the end of episode 17. 
+         During this episode, lava flows covered over 40-50% of the floor of Halema
+          ʻ uma ʻ u within the southern part of Kaluapele (KīKīlauea caldera). Additional details about the eruption were posted earlier in the April 8 Status Report, the April 8 Daily Update for KīKīlauea, the April 9 Daily Update for KīKīlauea, and the April 9 Status Report .
+    questions_and_answers:
+      - question: |
+          When did lava being flow from Hawaiiam Volcano?
+        answer: |
+          Based on data from from teh Hawaiian Volcano Observatory, lava began flowing
+          the night of April 7th that spread across the crater floor
+      - question: |
+          When did lava being flow from Hawaiiam Volcano?
+      - answer: |
+          Based on data from from teh Hawaiian Volcano Observatory, lava began flowing
+          the night of April 7th that spread across the crater floor.
+      - question: |
+          When did lava being flow from Hawaiiam Volcano?
+      - answer: |
+          Based on data from from teh Hawaiian Volcano Observatory, lava began flowing
+          the night of April 7th that spread across the crater floor.
+
