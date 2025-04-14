@@ -71,10 +71,10 @@ seed_examples:
       - question: |
         Where can I learn more about dangers from volcanic gas?  
       - answer: |
-        Further information on vog can be found at https://vog.ivhhn.org/ 
+        Further information on vog can be found at the website: Hawaii Interagency Vog Information Dashboard.
 
 document:
-repo: https://github.com/alexand2/-ETX-AI-Delivery.git
+repo: https://github.com/alexand2/-ETX-AI-Delivery.git.
 commit: 0a081557fced560abec5ae0b299185e20e5df797c8
 patterns:
   - knowledge.md
