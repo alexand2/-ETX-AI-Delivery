@@ -51,27 +51,54 @@ seed_examples:
           How often has the volcano erupted? 
       - answer: |
           Kilauea has had 17 episodes of eruptions since December 23, 2024. All eruptions are contained within the Hawaii Volcanoes National Park
- - context: |
-    This episodic eruption is occurring within a closed area of Hawai'i Volcanoes National Park. High levels of volcanic gas—primarily 
-    water vapor (H2O), carbon dioxide (CO2), and sulfur dioxide (SO2)—are the primary hazard of concern, as this hazard can have 
-    far-reaching effects downwind. As SO2 is continuously released from the summit during an eruption, it will react in the atmosphere 
-    to create the visible haze known as vog (volcanic smog) downwind of KiKīlauea. SO2 and vog may cause respiratory and other problems 
-    at high concentrations. Further information on vog can be found at https://vog.ivhhn.org/ 
+  - context: |
+     The ongoing Halemaʻumaʻ u eruption is paused; episode 17 ended at 9:45 a.m. HST on April 9 when low fountaining at the south vent 
+     stopped. Both vents are now degassing but only the south vent is glowing at night. If the eruptive activity reverts to pre-episode 
+     17 behavior, data indicate that episode 18 is likely to begin in the next 1-3 days. Kīlauea's current eruption in Halema ʻ uma ʻ u 
+     crater within Kaluapele (the summit caldera) began on December 23, 2024. There have now been 17 episodes of fountaining separated by 
+     pauses in activity. All eruptive activity remains within Hawai'i Volcanoes National Park. No significant activity has been noted along 
+     KīKīlauea's East Rift Zone or Southwest Rift Zone. Current hazards include volcanic gas emissions and windblown volcanic glass
+     (Pele's Hair) and tephra that have impacted Hawai'i Volcanoes National Park and nearby communities.
     questions_and_answers:
       - question: |
-        Is there a danger to the human population?       
+          What is the name of the volcano in Hawaii that is erupting? 
       - answer: |
-        High levels of gas - primarily water vapor (H2O), carbon dioxide (CO2), and sulfur dioxide (SO2) - are the primary hazard to  
-        people.
+          The volcano that is erupting is called Kilauea specifically from the Halema'uma'u crater. This volcano is on the big island of Hawaii. 
       - question: |
-        Why is volcanic gas dangerous?    
+          What kind of hazards are caused by the volcano? 
       - answer: |
-        Sulfer dioxide is continuously released from the summit during an eruption and reacts in the atmosphere to create the visible 
-        haze known as vog (volcanic smog) which can affect populations on the island as well as other Hawaiian islands.  
+          Hazards include poisonous gases, magma flow, and volcanic glass. 
       - question: |
-        Where can I learn more about dangers from volcanic gas?  
+          How often has the volcano erupted? 
       - answer: |
-        Further information on vog can be found at the website: Hawaii Interagency Vog Information Dashboard.
+          Kilauea has had 17 episodes of eruptions since December 23, 2024. All eruptions are contained within the Hawaii Volcanoes National Park
+  - context: |
+      The current eruption has been characterized by episodic fountaining not seen in any of the other Halemaʻumaʻ u eruptions since 2020.
+      Fountains and lava flows have erupted from two vents that we refer to as the north vent and south vent. Each of the previous 16 
+      fountaining episodes lasted from a few hours to over a week and has been accompanied by strong deflation of the summit region. 
+      Pauses between the fountaining episodes have been marked by an immediate change from deflation to inflation as the magma chamber
+      recharges and repressurizes.
+
+      Analysis of inflationary tilt patterns prior to the onset of each fountaining episode allows a time window of probability for the
+      onset of new episodes to be estimated. These are calculated using both minimum inflation necessary to start a new eruption and
+      the rate of inflation fit to data derived from past eruptive episodes. The onset of episode 17 occurred earlier than forecasted,
+      as the fountaining began prior to the tilt rebounding to the expected threshold that had been previously associated with
+      episode onsets. If the eruption returns to pre-episode 17 inflation behavior, data suggest episode 18 will likely begin
+      between Monday and Wednesday of this week, 1-3 days from now, with Tuesday most likely. This window may be adjusted if
+      inflation rates change significantly.
+    questions_and_answers:
+      - question: |
+          How many fountaining episodes have occurred since 2020?      
+      - answer: |
+          There have been 17 fountaining episodes since 2020.
+      - question: |
+          hat are the names of the two vents from which the lava flows have erupted? 
+      - answer: |
+          The two vents are referred to as the north vent and the south vent.
+      - question: |
+          What is the expected timing for the onset of episode 18? 
+      - answer: |
+          Episode 18 is expected to begin between Monday and Wednesday of the current week, with Tuesday being the most likely day.
 
 document:
 repo: https://github.com/alexand2/-ETX-AI-Delivery.git.
