@@ -106,6 +106,30 @@ seed_examples:
       - answer: |
           Other hazards include volcanic fragments from the lava fountain, crater wall instability, ground cracking, rockfalls from earthquakes, vog, 
           and pele's hair.
+  - context: |
+      The UWD and SDH tiltmeters show a distinct change in tilt from deflationary to inflationary trending that is coincident with the end of episode 17.
+      As of this morning, UWD has measured a little less than 8 microradians of inflationary tilt since 9:45 a.m. HST April 9. Seismic tremor rapidly
+      dropped in intensity on April 9 at 9:45 a.m. HST when episode 17 ended and continues at low levels.
+
+      Volcanic gas emissions remain elevated and at heightened levels due to lava fountaining. The last sulfur dioxide (SO2) emission rate measured on
+      April 10 was approximately 1,200 tonnes per day. Typical levels of Sulfur dioxide (SO2) emission have been about 1,000 tonnes per day during previous pauses.
+      This morning, the plume is being carried towards the southwest.
+
+      Strands of volcanic glass known as Pele’s Hair from previous episodes are still present throughout the summit area of Hawai’i Volcanoes National Park
+       and surrounding communities and can be remobilized by wind if present.
+    questions_and_answers:
+      - question: |
+          What change in tilt did the UWD and SDH tiltmeters detect following the end of episode 17?     
+      - answer: |
+          The UWD and SDH tiltmeters detected a distinct change from deflationary to inflationary tilt following the end of episode 17.       
+      - question: | 
+          How did seismic tremor activity change when episode 17 ended?
+      - answer: |
+          Seismic tremor activity rapidly dropped in intensity when episode 17 ended and continues at low levels.
+      - question: |
+          What was the sulfur dioxide emission rate measured on April 10th, and how does it compare to typical levels during pauses?
+      - answer: |
+          The sulfur dioxide emission rate measured on April 10th was approximately 1,200 tonnes per day, which is higher than the typical 1,000 tonnes per day during previous pauses.
 document:
 repo: https://github.com/alexand2/-ETX-AI-Delivery.git.
 commit: 0a081557fced560abec5ae0b299185e20e5df797c8
