@@ -78,34 +78,34 @@ seed_examples:
           What is the expected timing for the onset of episode 18? 
       - answer: |
           Episode 18 is expected to begin between Monday and Wednesday of the current week, with Tuesday being the most likely day.
-- context: |
-  Additional hazards include Pele's hair and other volcanic fragments from lava fountains. Pele's hair is strands of volcanic glass 
-  often produced by lava fountaining activity. Volcanic fragments can fall on the ground within a few hundred yards (meters) of the 
-  eruptive vent(s), or downwind of the vent(s). Strong winds may waft light particles, including Pele's hair, to greater distances
-  downwind. Once they are on the ground, Pele's hair can sometimes cluster and tangle together, giving it the appearance of a 
-  tumbleweed. The extent of Pele's hair deposition is dependent on lava fountaining activity and current wind conditions. Residents and 
-  visitors should minimize exposure to Pele's hair and other volcanic fragments, which can cause skin and eye irritation. Hawaiian lava
-  flows generally advance slowly downslope, and during this eruption flows have been confined to Halema ʻ uma ʻ u crater and the 
-  southwest side of Kaluapele, KīKīlauea's summit caldera. Other significant hazards also remain around KīKīlauea caldera from 
-  Halema ʻ uma ʻ u crater wall instability, ground cracking, and rockfalls that can be enhanced by earthquakes within the area closed 
-  to the public. This underscores the extremely hazardous nature of KīKīlauea's caldera rim surrounding Halema ʻ uma ʻ u crater, an 
-  area that has been closed to the public since late 2007.
+  - context: |
+      Additional hazards include Pele's hair and other volcanic fragments from lava fountains. Pele's hair is strands of volcanic glass 
+      often produced by lava fountaining activity. Volcanic fragments can fall on the ground within a few hundred yards (meters) of the 
+      eruptive vent(s), or downwind of the vent(s). Strong winds may waft light particles, including Pele's hair, to greater distances
+      downwind. Once they are on the ground, Pele's hair can sometimes cluster and tangle together, giving it the appearance of a 
+      tumbleweed. The extent of Pele's hair deposition is dependent on lava fountaining activity and current wind conditions. Residents and 
+      visitors should minimize exposure to Pele's hair and other volcanic fragments, which can cause skin and eye irritation. Hawaiian lava
+      flows generally advance slowly downslope, and during this eruption flows have been confined to Halema ʻ uma ʻ u crater and the 
+      southwest side of Kaluapele, KīKīlauea's summit caldera. Other significant hazards also remain around KīKīlauea caldera from 
+      Halema ʻ uma ʻ u crater wall instability, ground cracking, and rockfalls that can be enhanced by earthquakes within the area closed 
+      to the public. This underscores the extremely hazardous nature of KīKīlauea's caldera rim surrounding Halema ʻ uma ʻ u crater, an 
+      area that has been closed to the public since late 2007.
     questions_and_answers:
       - question: |
-        What is Pele's hair?         
+          What is Pele's hair?         
       - answer: |
-        Pele's hair is strands of volcanic glass often produced by lava fountaining activity. Once they are on the ground, Pele's hair 
-        can sometimes cluster and tangle together, giving it the appearance of a tumbleweed.          
+          Pele's hair is strands of volcanic glass often produced by lava fountaining activity. Once they are on the ground, Pele's hair 
+          can sometimes cluster and tangle together, giving it the appearance of a tumbleweed.          
       - question: | 
-        Which direction does the lava flow from the Kilauea caldera? 
+          Which direction does the lava flow from the Kilauea caldera? 
       - answer: |
-        Lava generally flows slowly in a downslope manner and has so far been contained within the Halema'uma'u crater and southwest side of 
-        Kaluapele, KīKīlauea's summit caldera. 
+          Lava generally flows slowly in a downslope manner and has so far been contained within the Halema'uma'u crater and southwest side of 
+          Kaluapele, KīKīlauea's summit caldera. 
       - question: |
-        Are there other kinds of hazards?
+          Are there other kinds of hazards?
       - answer: |
-        Other hazards include volcanic fragments from the lava fountain, crater wall instability, ground cracking, rockfalls from earthquakes, vog, 
-        and pele's hair.
+          Other hazards include volcanic fragments from the lava fountain, crater wall instability, ground cracking, rockfalls from earthquakes, vog, 
+          and pele's hair.
 document:
 repo: https://github.com/alexand2/-ETX-AI-Delivery.git.
 commit: 0a081557fced560abec5ae0b299185e20e5df797c8
