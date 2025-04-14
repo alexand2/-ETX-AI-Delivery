@@ -9,10 +9,12 @@ seed_examples:
       HST and started to produce a small lava flow that spread across the crater floor.
       During episode 17 sustained fountains ranged from about 50 feet (15 meters) high
       to bursts up to 200 feet (60 meters) from primarily the south vent with a short
-      period of minor fountaining at the north vent. At 9:45 a.m. HST on April 9, 
-      fountaining from the south vent stopped, marking the end of episode 17. 
+      period of minor fountaining at the north vent. At 9:45 a.m. HST on April 9,
+      fountaining from the south vent stopped, marking the end of episode 17.
       During this episode, lava flows covered over 40-50% of the floor of Halemaʻumaʻu
-      within the southern part of Kaluapele (KīKīlauea caldera). Additional details about the eruption were posted earlier in the April 8 Status Report, the April 8 Daily Update for KīKīlauea, the April 9 Daily Update for KīKīlauea, and the April 9 Status Report .
+      within the southern part of Kaluapele (KīKīlauea caldera). Additional details about
+       the eruption were posted earlier in the April 8 Status Report, the April 8 Daily
+        Update for KīKīlauea, the April 9 Daily Update for KīKīlauea, and the April 9 Status Report.
     questions_and_answers:
       - question: |
           When did lava being flow from Hawaiiam Volcano?
@@ -24,37 +26,37 @@ seed_examples:
       - answer: |
           Yes, there where fountations and they ranged from 50 feet (15 meters) high to bursts
           up to 200 feet (60 meters) mainly from the south vent with a short period of minor fountaining
-          at the north vent. 
+          at the north vent.
       - question: |
           What areas of Hawaii did the lava flow cover?
       - answer: |
           During this episode, lava flows covered over 40-50% of the flow of Halema'uma'u within
           the southern part of Kaluapeli (KiKIlauea caldera).
   - context: |
-     The ongoing Halemaʻumaʻ u eruption is paused; episode 17 ended at 9:45 a.m. HST on April 9 when low fountaining at the south vent 
-     stopped. Both vents are now degassing but only the south vent is glowing at night. If the eruptive activity reverts to pre-episode 
-     17 behavior, data indicate that episode 18 is likely to begin in the next 1-3 days. Kīlauea's current eruption in Halema ʻ uma ʻ u 
-     crater within Kaluapele (the summit caldera) began on December 23, 2024. There have now been 17 episodes of fountaining separated by 
-     pauses in activity. All eruptive activity remains within Hawai'i Volcanoes National Park. No significant activity has been noted along 
+     The ongoing Halemaʻumaʻ u eruption is paused; episode 17 ended at 9:45 a.m. HST on April 9 when low fountaining at the south vent
+     stopped. Both vents are now degassing but only the south vent is glowing at night. If the eruptive activity reverts to pre-episode
+     17 behavior, data indicate that episode 18 is likely to begin in the next 1-3 days. Kīlauea's current eruption in Halema ʻ uma ʻ u
+     crater within Kaluapele (the summit caldera) began on December 23, 2024. There have now been 17 episodes of fountaining separated by
+     pauses in activity. All eruptive activity remains within Hawai'i Volcanoes National Park. No significant activity has been noted along
      KīKīlauea's East Rift Zone or Southwest Rift Zone. Current hazards include volcanic gas emissions and windblown volcanic glass
      (Pele's Hair) and tephra that have impacted Hawai'i Volcanoes National Park and nearby communities.
     questions_and_answers:
       - question: |
-          What is the name of the volcano in Hawaii that is erupting? 
+          What is the name of the volcano in Hawaii that is erupting?
       - answer: |
-          The volcano that is erupting is called Kilauea specifically from the Halema'uma'u crater. This volcano is on the big island of Hawaii. 
+          The volcano that is erupting is called Kilauea specifically from the Halema'uma'u crater. This volcano is on the big island of Hawaii.
       - question: |
-          What kind of hazards are caused by the volcano? 
+          What kind of hazards are caused by the volcano?
       - answer: |
-          Hazards include poisonous gases, magma flow, and volcanic glass. 
+          Hazards include poisonous gases, magma flow, and volcanic glass.
       - question: |
-          How often has the volcano erupted? 
+          How often has the volcano erupted?
       - answer: |
           Kilauea has had 17 episodes of eruptions since December 23, 2024. All eruptions are contained within the Hawaii Volcanoes National Park
   - context: |
       The current eruption has been characterized by episodic fountaining not seen in any of the other Halemaʻumaʻ u eruptions since 2020.
-      Fountains and lava flows have erupted from two vents that we refer to as the north vent and south vent. Each of the previous 16 
-      fountaining episodes lasted from a few hours to over a week and has been accompanied by strong deflation of the summit region. 
+      Fountains and lava flows have erupted from two vents that we refer to as the north vent and south vent. Each of the previous 16
+      fountaining episodes lasted from a few hours to over a week and has been accompanied by strong deflation of the summit region.
       Pauses between the fountaining episodes have been marked by an immediate change from deflation to inflation as the magma chamber
       recharges and repressurizes.
 
@@ -67,44 +69,44 @@ seed_examples:
       inflation rates change significantly.
     questions_and_answers:
       - question: |
-          How many fountaining episodes have occurred since 2020?      
+          How many fountaining episodes have occurred since 2020?
       - answer: |
           There have been 17 fountaining episodes since 2020.
       - question: |
-          What are the names of the two vents from which the lava flows have erupted? 
+          What are the names of the two vents from which the lava flows have erupted?
       - answer: |
           The two vents are referred to as the north vent and the south vent.
       - question: |
-          What is the expected timing for the onset of episode 18? 
+          What is the expected timing for the onset of episode 18?
       - answer: |
           Episode 18 is expected to begin between Monday and Wednesday of the current week, with Tuesday being the most likely day.
   - context: |
-      Additional hazards include Pele's hair and other volcanic fragments from lava fountains. Pele's hair is strands of volcanic glass 
-      often produced by lava fountaining activity. Volcanic fragments can fall on the ground within a few hundred yards (meters) of the 
+      Additional hazards include Pele's hair and other volcanic fragments from lava fountains. Pele's hair is strands of volcanic glass
+      often produced by lava fountaining activity. Volcanic fragments can fall on the ground within a few hundred yards (meters) of the
       eruptive vent(s), or downwind of the vent(s). Strong winds may waft light particles, including Pele's hair, to greater distances
-      downwind. Once they are on the ground, Pele's hair can sometimes cluster and tangle together, giving it the appearance of a 
-      tumbleweed. The extent of Pele's hair deposition is dependent on lava fountaining activity and current wind conditions. Residents and 
+      downwind. Once they are on the ground, Pele's hair can sometimes cluster and tangle together, giving it the appearance of a
+      tumbleweed. The extent of Pele's hair deposition is dependent on lava fountaining activity and current wind conditions. Residents and
       visitors should minimize exposure to Pele's hair and other volcanic fragments, which can cause skin and eye irritation. Hawaiian lava
-      flows generally advance slowly downslope, and during this eruption flows have been confined to Halema ʻ uma ʻ u crater and the 
-      southwest side of Kaluapele, KīKīlauea's summit caldera. Other significant hazards also remain around KīKīlauea caldera from 
-      Halemaʻumaʻ u crater wall instability, ground cracking, and rockfalls that can be enhanced by earthquakes within the area closed 
-      to the public. This underscores the extremely hazardous nature of KīKīlauea's caldera rim surrounding Halema ʻ uma ʻ u crater, an 
+      flows generally advance slowly downslope, and during this eruption flows have been confined to Halema ʻ uma ʻ u crater and the
+      southwest side of Kaluapele, KīKīlauea's summit caldera. Other significant hazards also remain around KīKīlauea caldera from
+      Halemaʻumaʻ u crater wall instability, ground cracking, and rockfalls that can be enhanced by earthquakes within the area closed
+      to the public. This underscores the extremely hazardous nature of KīKīlauea's caldera rim surrounding Halema ʻ uma ʻ u crater, an
       area that has been closed to the public since late 2007.
     questions_and_answers:
       - question: |
           What is Pele's hair?         
       - answer: |
-          Pele's hair is strands of volcanic glass often produced by lava fountaining activity. Once they are on the ground, Pele's hair 
-          can sometimes cluster and tangle together, giving it the appearance of a tumbleweed.          
-      - question: | 
-          Which direction does the lava flow from the Kilauea caldera? 
+          Pele's hair is strands of volcanic glass often produced by lava fountaining activity. Once they are on the ground, Pele's hair
+          can sometimes cluster and tangle together, giving it the appearance of a tumbleweed.
+      - question: |
+          Which direction does the lava flow from the Kilauea caldera?
       - answer: |
-          Lava generally flows slowly in a downslope manner and has so far been contained within the Halema'uma'u crater and southwest side of 
-          Kaluapele, KīKīlauea's summit caldera. 
+          Lava generally flows slowly in a downslope manner and has so far been contained within the Halema'uma'u crater and southwest side of
+          Kaluapele, KīKīlauea's summit caldera.
       - question: |
           Are there other kinds of hazards?
       - answer: |
-          Other hazards include volcanic fragments from the lava fountain, crater wall instability, ground cracking, rockfalls from earthquakes, vog, 
+          Other hazards include volcanic fragments from the lava fountain, crater wall instability, ground cracking, rockfalls from earthquakes, vog,
           and pele's hair.
   - context: |
       The UWD and SDH tiltmeters show a distinct change in tilt from deflationary to inflationary trending that is coincident with the end of episode 17.
@@ -119,17 +121,18 @@ seed_examples:
        and surrounding communities and can be remobilized by wind if present.
     questions_and_answers:
       - question: |
-          What change in tilt did the UWD and SDH tiltmeters detect following the end of episode 17?     
+          What change in tilt did the UWD and SDH tiltmeters detect following the end of episode 17?
       - answer: |
-          The UWD and SDH tiltmeters detected a distinct change from deflationary to inflationary tilt following the end of episode 17.       
-      - question: | 
+          The UWD and SDH tiltmeters detected a distinct change from deflationary to inflationary tilt following the end of episode 17.   
+      - question: |
           How did seismic tremor activity change when episode 17 ended?
       - answer: |
           Seismic tremor activity rapidly dropped in intensity when episode 17 ended and continues at low levels.
       - question: |
           What was the sulfur dioxide emission rate measured on April 10th, and how does it compare to typical levels during pauses?
       - answer: |
-          The sulfur dioxide emission rate measured on April 10th was approximately 1,200 tonnes per day, which is higher than the typical 1,000 tonnes per day during previous pauses.
+          The sulfur dioxide emission rate measured on April 10th was approximately 1,200 tonnes per day, which is higher than the typical
+          1,000 tonnes per day during previous pauses.
 document:
 repo: https://github.com/alexand2/-ETX-AI-Delivery.git
 commit: 0a081557fced560abec5ae0b299185e20e5df797c8
