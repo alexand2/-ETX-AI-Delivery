@@ -17,18 +17,19 @@ seed_examples:
       - question: |
           When did lava being flow from Hawaiiam Volcano?
         answer: |
-          Based on data from from teh Hawaiian Volcano Observatory, lava began flowing
+          Based on data from from the Hawaiian Volcano Observatory, lava began flowing
           the night of April 7th that spread across the crater floor
       - question: |
-          When did lava being flow from Hawaiiam Volcano?
+          Where there any fountations and if so how high did they get.
       - answer: |
-          Based on data from from teh Hawaiian Volcano Observatory, lava began flowing
-          the night of April 7th that spread across the crater floor.
+          Yes, there where fountations and they ranged from 50 feet (15 meters) high to bursts
+          up to 200 feet (60 meters) mainly from the south vent with a short period of minor fountaining
+          at the north vent. 
       - question: |
-          When did lava being flow from Hawaiiam Volcano?
+          What areas of Hawaii did the lava flow cover?
       - answer: |
-          Based on data from from teh Hawaiian Volcano Observatory, lava began flowing
-          the night of April 7th that spread across the crater floor.
+          During this episode, lava flows covered over 40-50% of the flow of Halema'uma'u within
+          the southern part of Kaluapeli (KiKIlauea caldera).
 
  - context: |
  The ongoing Halema ʻ uma ʻ u eruption is paused; episode 17 ended at 9:45 a.m. HST on April 9 when low fountaining at the south vent 
