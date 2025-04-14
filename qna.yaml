@@ -23,13 +23,13 @@ seed_examples:
           the night of April 7th that spread across the crater floor
       - question: |
           Where there any fountations and if so how high did they get.
-      - answer: |
+        answer: |
           Yes, there where fountations and they ranged from 50 feet (15 meters) high to bursts
           up to 200 feet (60 meters) mainly from the south vent with a short period of minor fountaining
           at the north vent.
       - question: |
           What areas of Hawaii did the lava flow cover?
-      - answer: |
+        answer: |
           During this episode, lava flows covered over 40-50% of the flow of Halema'uma'u within
           the southern part of Kaluapeli (KiKIlauea caldera).
   - context: |
@@ -43,15 +43,15 @@ seed_examples:
     questions_and_answers:
       - question: |
           What is the name of the volcano in Hawaii that is erupting?
-      - answer: |
+        answer: |
           The volcano that is erupting is called Kilauea specifically from the Halema'uma'u crater. This volcano is on the big island of Hawaii.
       - question: |
           What kind of hazards are caused by the volcano?
-      - answer: |
+        answer: |
           Hazards include poisonous gases, magma flow, and volcanic glass.
       - question: |
           How often has the volcano erupted?
-      - answer: |
+        answer: |
           Kilauea has had 17 episodes of eruptions since December 23, 2024. All eruptions are contained within the Hawaii Volcanoes National Park
   - context: |
       The current eruption has been characterized by episodic fountaining not seen in any of the other Halemaʻumaʻ u eruptions since 2020.
@@ -70,15 +70,15 @@ seed_examples:
     questions_and_answers:
       - question: |
           How many fountaining episodes have occurred since 2020?
-      - answer: |
+        answer: |
           There have been 17 fountaining episodes since 2020.
       - question: |
           What are the names of the two vents from which the lava flows have erupted?
-      - answer: |
+        answer: |
           The two vents are referred to as the north vent and the south vent.
       - question: |
           What is the expected timing for the onset of episode 18?
-      - answer: |
+        answer: |
           Episode 18 is expected to begin between Monday and Wednesday of the current week, with Tuesday being the most likely day.
   - context: |
       Additional hazards include Pele's hair and other volcanic fragments from lava fountains. Pele's hair is strands of volcanic glass
@@ -95,17 +95,17 @@ seed_examples:
     questions_and_answers:
       - question: |
           What is Pele's hair?         
-      - answer: |
+        answer: |
           Pele's hair is strands of volcanic glass often produced by lava fountaining activity. Once they are on the ground, Pele's hair
           can sometimes cluster and tangle together, giving it the appearance of a tumbleweed.
       - question: |
           Which direction does the lava flow from the Kilauea caldera?
-      - answer: |
+        answer: |
           Lava generally flows slowly in a downslope manner and has so far been contained within the Halema'uma'u crater and southwest side of
           Kaluapele, KīKīlauea's summit caldera.
       - question: |
           Are there other kinds of hazards?
-      - answer: |
+        answer: |
           Other hazards include volcanic fragments from the lava fountain, crater wall instability, ground cracking, rockfalls from earthquakes, vog,
           and pele's hair.
   - context: |
@@ -122,15 +122,15 @@ seed_examples:
     questions_and_answers:
       - question: |
           What change in tilt did the UWD and SDH tiltmeters detect following the end of episode 17?
-      - answer: |
+        answer: |
           The UWD and SDH tiltmeters detected a distinct change from deflationary to inflationary tilt following the end of episode 17.   
       - question: |
           How did seismic tremor activity change when episode 17 ended?
-      - answer: |
+        answer: |
           Seismic tremor activity rapidly dropped in intensity when episode 17 ended and continues at low levels.
       - question: |
           What was the sulfur dioxide emission rate measured on April 10th, and how does it compare to typical levels during pauses?
-      - answer: |
+        answer: |
           The sulfur dioxide emission rate measured on April 10th was approximately 1,200 tonnes per day, which is higher than the typical
           1,000 tonnes per day during previous pauses.
 document:
