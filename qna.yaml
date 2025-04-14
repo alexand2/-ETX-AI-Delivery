@@ -51,6 +51,28 @@ seed_examples:
           How often has the volcano erupted? 
       - answer: |
           Kilauea has had 17 episodes of eruptions since December 23, 2024. All eruptions are contained within the Hawaii Volcanoes National Park
+ - context: |
+    This episodic eruption is occurring within a closed area of Hawai'i Volcanoes National Park. High levels of volcanic gas—primarily 
+    water vapor (H2O), carbon dioxide (CO2), and sulfur dioxide (SO2)—are the primary hazard of concern, as this hazard can have 
+    far-reaching effects downwind. As SO2 is continuously released from the summit during an eruption, it will react in the atmosphere 
+    to create the visible haze known as vog (volcanic smog) downwind of KiKīlauea. SO2 and vog may cause respiratory and other problems 
+    at high concentrations. Further information on vog can be found at https://vog.ivhhn.org/ 
+    questions_and_answers:
+      - question: |
+        Is there a danger to the human population?       
+      - answer: |
+        High levels of gas - primarily water vapor (H2O), carbon dioxide (CO2), and sulfur dioxide (SO2) - are the primary hazard to  
+        people.
+      - question: |
+        Why is volcanic gas dangerous?    
+      - answer: |
+        Sulfer dioxide is continuously released from the summit during an eruption and reacts in the atmosphere to create the visible 
+        haze known as vog (volcanic smog) which can affect populations on the island as well as other Hawaiian islands.  
+      - question: |
+        Where can I learn more about dangers from volcanic gas?  
+      - answer: |
+        Further information on vog can be found at https://vog.ivhhn.org/ 
+
 document:
 repo: https://github.com/alexand2/-ETX-AI-Delivery.git
 commit: 0a081557fced560abec5ae0b299185e20e5df797c8
