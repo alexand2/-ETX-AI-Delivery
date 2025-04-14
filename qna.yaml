@@ -6,13 +6,13 @@ document_outline: |
 seed_examples:
   - context: |
       Low lava fountaining began the night of April 7 at the south vent around 10:15 p.m.
-       HST and started to produce a small lava flow that spread across the crater floor.
-       During episode 17 sustained fountains ranged from about 50 feet (15 meters) high
-        to bursts up to 200 feet (60 meters) from primarily the south vent with a short
-         period of minor fountaining at the north vent. At 9:45 a.m. HST on April 9, 
-         fountaining from the south vent stopped, marking the end of episode 17. 
-         During this episode, lava flows covered over 40-50% of the floor of Halema
-          ʻ uma ʻ u within the southern part of Kaluapele (KīKīlauea caldera). Additional details about the eruption were posted earlier in the April 8 Status Report, the April 8 Daily Update for KīKīlauea, the April 9 Daily Update for KīKīlauea, and the April 9 Status Report .
+      HST and started to produce a small lava flow that spread across the crater floor.
+      During episode 17 sustained fountains ranged from about 50 feet (15 meters) high
+      to bursts up to 200 feet (60 meters) from primarily the south vent with a short
+      period of minor fountaining at the north vent. At 9:45 a.m. HST on April 9, 
+      fountaining from the south vent stopped, marking the end of episode 17. 
+      During this episode, lava flows covered over 40-50% of the floor of Halemaʻumaʻu
+      within the southern part of Kaluapele (KīKīlauea caldera). Additional details about the eruption were posted earlier in the April 8 Status Report, the April 8 Daily Update for KīKīlauea, the April 9 Daily Update for KīKīlauea, and the April 9 Status Report .
     questions_and_answers:
       - question: |
           When did lava being flow from Hawaiiam Volcano?
@@ -31,7 +31,7 @@ seed_examples:
           During this episode, lava flows covered over 40-50% of the flow of Halema'uma'u within
           the southern part of Kaluapeli (KiKIlauea caldera).
   - context: |
-     The ongoing Halema ʻ uma ʻ u eruption is paused; episode 17 ended at 9:45 a.m. HST on April 9 when low fountaining at the south vent 
+     The ongoing Halemaʻumaʻ u eruption is paused; episode 17 ended at 9:45 a.m. HST on April 9 when low fountaining at the south vent 
      stopped. Both vents are now degassing but only the south vent is glowing at night. If the eruptive activity reverts to pre-episode 
      17 behavior, data indicate that episode 18 is likely to begin in the next 1-3 days. Kīlauea's current eruption in Halema ʻ uma ʻ u 
      crater within Kaluapele (the summit caldera) began on December 23, 2024. There have now been 17 episodes of fountaining separated by 
