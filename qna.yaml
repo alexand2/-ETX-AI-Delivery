@@ -55,4 +55,4 @@ document:
 repo: https://github.com/alexand2/-ETX-AI-Delivery.git
 commit: 0a081557fced560abec5ae0b299185e20e5df797c8
 patterns:
-  - phoenix_constellation.md
+  - knowledge.md
