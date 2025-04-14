@@ -2,7 +2,7 @@ version: 3
 domain: Volano Daily Update
 created_by: Alex, Dom, and Karlos
 document_outline: |
-  US Geological Survey for Hawaiian Volcano Observatory April 13, 2025
+  US Geological Survey for Hawaiian Volcano Observatory April 13, 2025.
 seed_examples:
   - context: |
       Low lava fountaining began the night of April 7 at the south vent around 10:15 p.m.
